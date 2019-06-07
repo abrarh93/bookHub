@@ -1,6 +1,4 @@
-# Books-bootstrap-website
-In this project, we had created a complete books website.
+# BookHub is a single page application where you can view the books published recently 
+In this project, a homepage is built to show a complete book website.
 
-Top Open this website just go to src and open Index.html file.
-That's it.
-Enjoy...!
+To run the code just clone or download the code and go to src folder and open index.html
